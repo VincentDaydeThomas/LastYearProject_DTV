@@ -1,0 +1,21 @@
+# Created by Octave 6.1.0, Thu Jul 22 15:12:58 2021 GMT <unknown@LAPTOP-IAVKC6NJ>
+# name: f_b
+# type: scalar
+0.16721956739737637
+
+
+# name: phi_b
+# type: scalar
+-7.5929216078882531
+
+
+# name: tau
+# type: scalar
+60.560465971672855
+
+
+# name: time_preheat
+# type: scalar
+6.9098266341135961
+
+
