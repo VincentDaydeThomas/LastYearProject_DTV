@@ -28,7 +28,7 @@ Written by Vincent Daydé-Thomas, Fluid dynamics Engineer Student, 2021
 (1)ENSEEIHT- Toulouse INP
 (2)Conseil départemental de la Haute-Garonne
 Nota about the program - bibliographic references:
-This program is base on the following publications:
+This program is base on the following publications, the mathematical formulation and all attached parts are the intellectual property of the authors:
 [1] N. Murdoch, J.M.Penman,and G.J.Levermore. Empirical and theoretical optimum start algorithms. 
 Building Services Engineering Research and Technology, 11(3):97–103, 1990.
 [2] A. B.Birtles and R.W.John. A new optimum start control algorithm. 
